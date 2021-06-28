@@ -1,0 +1,1091 @@
+/* body {
+    font-family: 'Montserrat', sans-serif;
+} */
+
+i {
+    margin-right: 8px;
+    color: green;
+}
+
+hr.small {
+    margin: auto;
+    width: 100px;
+    border: 3px solid gray;
+}
+
+/* ------------- */
+
+.section_topbar .topbar {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.section_topbar .topbar .promo {
+    font-size: 12px;
+}
+
+.section_topbar .topbar .contact {
+    font-size: 13px;
+    text-align: right;
+}
+
+.section_topbar .topbar .contact i {
+    color: black;
+}
+
+/* ------------- */
+.navbar {
+    max-width: 1050px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.navbar img {
+    width: 250px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+/* ------------- */
+
+.php_hosting {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.php_hosting .title {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.php_hosting .description {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.php_hosting .detail {
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.php_hosting img {
+    height: 270px;
+}
+
+/* ------------- */
+
+.ion_cube_composer {
+    max-width: 900px;
+    margin: auto;
+}
+
+.ion_cube_composer img {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+.ion_cube_composer .description {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+@media only screen and (min-width: 1366px) {
+    .ion_cube_composer p {
+        text-align: center;
+    }
+}
+
+/* ------------- */
+/* 
+
+/* 
+.paket_hosting .price {
+    width: 250px;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 0.2px rgba(0, 0, 0, 0.3);
+    padding: 0px 0px 30px 0px;
+}
+
+.paket_hosting .price .head {
+    width: 250px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.paket_hosting .best_seller {
+    width: 250px;
+    border: 1px solid #00A2F3;
+    padding: 0px 0px 30px 0px;
+}
+
+.paket_hosting .best_seller .head {
+    width: 250px;
+    background-color: #00A2F3;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+
+.paket_hosting span {
+    vertical-align: top;
+}
+
+.paket_hosting .judul_tabel {
+    padding-top: 15px;
+}
+
+.paket_hosting .harga_awal {
+    padding: 20px;
+    text-decoration-line: line-through;
+}
+
+.paket_hosting .diskon {
+    font-weight: 700;
+}
+
+.paket_hosting .member {
+    padding: 20px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.paket_hosting .desc_fitur {
+    font-size: 18px;
+    padding: 20px;
+    font-weight: 400;
+}
+
+.paket_hosting .button {
+    padding: 1px 1px 1px 1px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 50px;
+    border: 1px solid black;
+    color: black;
+    width: 150px;
+    margin: auto;
+} */
+
+.paket_hosting {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paket_hosting .title {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paket_hosting .desc {
+    margin-bottom: 50px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.basic .judul_tabel {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.basic .harga_awal {
+    font-size: 18px;
+    text-decoration: line-through
+}
+
+.basic .member {
+    font-size: 14px;
+}
+
+.basic .member .total {
+    font-weight: 500;
+}
+
+.basic .h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.basic .rupiah {
+    font-size: 17px;
+}
+
+.basic .ribuan {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.basic .per_bulan {
+    font-size: 17px;
+}
+
+.basic .desc_fitur {
+    font-size: 17px;
+    padding: 20px;
+    font-weight: 300;
+}
+
+.basic .button {
+    padding: 1px 1px 1px 1px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 50px;
+    border: 1px solid black;
+    color: black;
+    width: 150px;
+    margin: auto;
+}
+
+.basic {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 0.2px rgba(0, 0, 0, 0.3);
+}
+
+.best_seller {
+    margin-top: 40px;
+    padding-bottom: 20px;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 0.2px #008fee;
+}
+
+.price-section {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.best_seller .price-section {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #008fee;
+    color: white;
+}
+
+.wrapper .best_seller {
+    background: #fff;
+    position: relative;
+}
+
+.best_seller .ribbon {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    overflow: hidden;
+}
+
+.best_seller .ribbon::before,
+.best_seller .ribbon::after {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    display: block;
+    border: 7px solid #00b359;
+    border-top-color: transparent;
+    border-left-color: transparent;
+}
+
+.best_seller .ribbon::before {
+    top: 0px;
+    right: 15px;
+}
+
+.best_seller .ribbon::after {
+    bottom: 15px;
+    left: 0px;
+}
+
+.best_seller .ribbon span {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    transform: rotate(-45deg);
+    width: 200px;
+    background: #00b359;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+}
+
+
+/* ------------- */
+
+.section_four .limit_php {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section_four .limit_php .title {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_four .limit_php .padding-0 {
+    padding-right: 10;
+    padding-left: 10;
+}
+
+/* ------------- */
+
+.section_five .semua_paket {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.section_five .semua_paket .title {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_five .semua_paket img {
+    width: 60px;
+}
+
+.section_five .semua_paket .title_content {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_five .semua_paket .description {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+/* ------------- */
+
+.section_six .dukung_laravel {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.section_six .dukung_laravel .title {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.section_six .dukung_laravel .description {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.section_six .dukung_laravel .detail {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.section_six .dukung_laravel .nb {
+    margin-top: 20px;
+    font-size: 10px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.section_six .dukung_laravel button {
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 50px;
+    margin-top: 20px;
+    background: #00A2F3;
+    color: white;
+}
+
+/* ------------- */
+
+.section_seven .modul_lengkap {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin: auto;
+}
+
+.section_seven .modul_lengkap table {
+    margin-left: 150px;
+}
+
+.section_seven .modul_lengkap span {
+    font-size: 15px;
+}
+
+.section_seven .modul_lengkap .title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_seven .modul_lengkap button {
+    margin: auto;
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin-top: 50px;
+    color: black;
+    width: 150px;
+}
+
+/* ------------- */
+
+.section_eight .linux_hosting {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.section_eight .linux_hosting .description {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_eight .linux_hosting .detail {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_eight .linux_hosting button {
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 50px;
+    margin-top: 20px;
+    background: #00A2F3;
+    color: white;
+}
+
+.section_eight .linux_hosting img {
+    margin-top: 100px;
+    height: 275px;
+}
+
+/* ------------- */
+
+.section_nine .bagikan {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: whitesmoke;
+}
+
+.section_nine .bagikan .text {
+    text-align: center;
+}
+
+.section_nine .bagikan .description {
+    margin-left: 70px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_nine .bagikan img {
+    width: 30px;
+    height: 30px;
+}
+
+.section_nine .bagikan .first {
+    margin-left: 50px;
+}
+
+.section_nine .bagikan .share__count {
+    background-color: #fff;
+    border: solid 1px #a5b1bd;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 4px;
+    padding: 4px 10px;
+    position: relative;
+    text-align: center;
+}
+
+.section_nine .bagikan .share__count:before,
+.share__count:after {
+    content: '';
+    display: block;
+    height: 0;
+    top: 50%;
+    position: absolute;
+    left: -14px;
+    width: 0;
+    margin-top: -6px;
+    transform: rotate(180deg);
+}
+
+.section_nine .bagikan .share__count:before {
+    border: solid 7px transparent;
+    border-color: transparent transparent transparent #a5b1bd;
+    transform: rotate(180deg);
+}
+
+.section_nine .bagikan .share__count:after {
+    border: solid 6px transparent;
+    border-color: transparent transparent transparent #fff;
+    left: -11px;
+    margin-top: -5px;
+    transform: rotate(180deg);
+}
+
+/* ------------- */
+
+.section_ten .helpdesk {
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 110px;
+    padding-bottom: 50px;
+    background-color: #00A2F3;
+    color: white;
+}
+
+.section_ten .helpdesk .text {
+    /* margin-left: 200px; */
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_ten .helpdesk .text strong {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_ten .helpdesk button {
+    padding: 10px 25px 10px 25px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 50px;
+    border: 2px solid white;
+    color: white;
+    width: 170px;
+}
+
+.section_ten .helpdesk .icon-chat {
+    color: white;
+}
+
+.section_ten .helpdesk button:hover {
+    background-color: white;
+    color: #00A2F3;
+}
+
+.section_ten .helpdesk button:hover>.icon-chat {
+    color: #00A2F3;
+}
+
+.section_ten .vertical {
+    border-left: 3px solid rgb(199, 199, 199);
+    opacity: 0.11;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+}
+
+/* ------------- */
+
+.section_eleven .info {
+    height: 100%;
+    background-color: #303030;
+}
+
+.section_eleven .info .content-row {
+    padding-top: 50px;
+    margin: auto;
+    max-width: 1290px;
+}
+
+.section_eleven .info .title {
+    color: #898989;
+}
+
+.section_eleven .info span {
+    color: #CFCFCF;
+}
+
+.section_eleven .info .button-inside {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.section_eleven .info input {
+    padding: 10px;
+    border-radius: 100px;
+    width: 100%;
+    height: 50px;
+}
+
+.section_eleven .info .langganan {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    /* left: 1px; */
+    height: 41px;
+    width: 130px;
+    border-radius: 100px;
+    text-align: center;
+    padding: 2px;
+    background-color: #00A2F3;
+    color: white;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section_eleven .info .desc {
+    color: #707070;
+}
+
+.section_eleven .info .desc-aktivitas-instan {
+    margin-top: 20px;
+    color: #707070;
+}
+
+.section_eleven .info .social-media-btn {
+    width: 50px;
+    height: 50px;
+    padding: 1px 10px 1px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 35px;
+    border: 2px solid white;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.section_eleven .info .social-media-btn-facebook {
+    width: 50px;
+    height: 50px;
+    padding: 1px 16px 1px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 35px;
+    border: 2px solid white;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.section_eleven .info i {
+    color: white;
+
+}
+
+.section_eleven .info .content-row .icon_pembayaran img {
+    width: 85px;
+}
+
+/* ------------- */
+
+/* Mobile */
+@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+
+    * {
+        max-width: 600px;
+    }
+
+    hr.small {
+        display: none;
+    }
+
+    .section_topbar,
+    .section_two,
+    .section_one,
+    .section_four,
+    .section_five,
+    .section_three,
+    .section_six,
+    .section_seven {
+        width: 580px;
+    }
+
+    .section_topbar .topbar .promo {
+        font-size: 15px;
+    }
+
+    .section_topbar .topbar .contact {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .navbar {
+        width: 560px;
+    }
+
+    .navbar img {
+        width: 400px;
+    }
+
+    .section_six {
+        margin-left: -50px;
+    }
+
+    .section_one img {
+        width: 100%;
+    }
+
+    .section_two .description {
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .section_two img {
+        width: 100%;
+    }
+
+    .section_three .basic {
+        width: 100%;
+    }
+
+    .section_six img {
+        margin-top: 30px;
+        margin-left: 35px;
+        width: 100%;
+    }
+
+    .section_seven .modul_lengkap table {
+        margin-left: 25px;
+    }
+
+    .section_eight {
+        width: 580px;
+        margin-left: -50px;
+    }
+
+    .section_nine {
+        width: 583px;
+    }
+
+    .section_nine .bagikan .description {
+        margin-left: 20px;
+    }
+
+    .section_nine .bagikan .first {
+        margin-left: 140px;
+    }
+
+    .section_ten {
+        width: 583px;
+    }
+
+    .section_ten .helpdesk .text {
+        margin-left: -100px;
+        font-size: 22px;
+    }
+
+    .section_ten .helpdesk .text strong {
+        font-size: 22px;
+    }
+
+    .section_ten .helpdesk button {
+        margin-left: -100px;
+        margin-top: 30px;
+    }
+
+    .section_eleven {
+        width: 583px;
+        text-align: center;
+    }
+
+    .section_eleven .info .title {
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .section_eleven .info span {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .section_eleven .info .desc {
+        color: #707070;
+        font-size: 21px;
+
+    }
+
+    .section_eleven .info .desc-aktivitas-instan {
+        margin-top: 20px;
+        color: #707070;
+    }
+
+    .section_eleven .info .content-row .icon_pembayaran img {
+        width: 155px;
+    }
+
+}
+
+/* Ipad */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+    * {
+        max-width: 950px;
+    }
+
+    hr.small {
+        display: none;
+    }
+
+    .section_topbar .topbar {
+        width: 900px;
+    }
+
+
+    .section_topbar .topbar .promo {
+        font-size: 15px;
+    }
+
+    .section_topbar .topbar .contact {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .navbar {
+        width: 920px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .navbar img {
+        width: 500px;
+    }
+
+    .navbar ul li {
+        font-size: 25px;
+        font-weight: 300;
+        font-family: 'Montserrat', sans-serif;
+        margin-left: 20px;
+    }
+
+    .section_two {
+        width: 950px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .section_three {
+        width: 950px;
+        margin: auto;
+    }
+
+    .section_four {
+        width: 950px;
+    }
+
+    .section_five {
+        width: 940px;
+    }
+
+    .section_six {
+        margin-left: -50px;
+    }
+
+    .section_six .dukung_laravel .title {
+        margin-left: 150px;
+    }
+
+    .section_seven {
+        width: 940px;
+    }
+
+    .section_seven .modul_lengkap table {
+        margin-left: 50px;
+    }
+
+    .section_eight {
+        margin-left: -50px;
+    }
+
+    .section_eight .linux_hosting img {
+        margin-top: 250px;
+    }
+
+    .section_nine {
+        width: 945px;
+    }
+
+    .section_nine .bagikan .description {
+        margin-left: -10px;
+    }
+
+    .section_ten {
+        width: 945px;
+    }
+
+    .section_ten .helpdesk .text {
+        margin-left: -90px;
+        font-size: 22px;
+    }
+
+    .section_ten .helpdesk .text strong {
+        font-size: 22px;
+    }
+
+    .section_ten .helpdesk button {
+        margin-top: -5px;
+    }
+
+    .section_eleven {
+        width: 945px;
+        text-align: center;
+    }
+
+    .section_eleven .info .desc {
+        font-size: 21px;
+    }
+
+    .section_eleven .info .desc-aktivitas-instan {
+        font-size: 22px;
+    }
+
+    .section_eleven .info .content-row .icon_pembayaran img {
+        width: 130px;
+    }
+
+}
+
+
+/* Ipad Pro*/
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) {
+
+    * {
+        max-width: 1080px;
+    }
+
+    hr.small {
+        display: none;
+    }
+
+    .navbar {
+        width: 1080px;
+    }
+
+    .navbar img {
+        width: 200px;
+    }
+
+    .navbar ul li {
+        font-size: 15px;
+        font-weight: 300;
+        font-family: 'Montserrat', sans-serif;
+        margin-left: 20px;
+    }
+
+    .section_two {
+        width: 1080px;
+        text-align: center;
+    }
+
+    .section_three {
+        width: 1080px;
+        margin: auto;
+    }
+
+    .section_four {
+        width: 1050px;
+    }
+
+    .section_five {
+        width: 1050px;
+    }
+
+    .section_six .dukung_laravel .title {
+        margin-left: -10px;
+    }
+
+    .section_seven {
+        width: 1070px;
+    }
+
+    .section_seven .modul_lengkap table {
+        margin-left: 90px;
+    }
+
+    .section_eight .linux_hosting img {
+        margin-top: 150px;
+    }
+
+    .section_nine {
+        width: 1200px;
+    }
+
+    .section_nine .bagikan .description {
+        margin-left: -50px;
+    }
+
+    .section_ten {
+        width: 1200px;
+    }
+
+    .section_ten .helpdesk .text {
+        margin-left: -80px;
+        font-size: 22px;
+    }
+
+    .section_ten .helpdesk button {
+        margin-top: 2px;
+    }
+
+    .section_eleven {
+        width: 1200px;
+        text-align: center;
+    }
+
+    .section_eleven .info .title {
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .section_eleven .info span {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .section_eleven .info .desc {
+        font-size: 21px;
+    }
+
+    .section_eleven .info .desc-aktivitas-instan {
+        font-size: 22px;
+    }
+
+    .section_eleven .info .content-row .icon_pembayaran img {
+        width: 130px;
+    }
+}
